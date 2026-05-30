@@ -73,4 +73,4 @@ A entrega deve ser realizada através do formulário disponibilizado pelo profes
 ### Evidência de Branch Protection
 Abaixo está o comprovante de que a branch `main` foi configurada com as regras de proteção exigidas:
 
-![Print da configuração de proteção da branch main] Screenshot_9.png
+![Print da configuração de proteção da branch main] (Screenshot_9.png)
