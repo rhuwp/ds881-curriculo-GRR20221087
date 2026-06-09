@@ -82,6 +82,7 @@ Para rodar este projeto na sua máquina localmente sem precisar instalar depend�
    ```bash
    git clone git@github.com:rhuwp/ds881-curriculo-GRR20221087.git
    cd ds881-curriculo-GRR20221087
+   docker compose up --build
 
 ---
 ### Evidência de Branch Protection
