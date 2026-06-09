@@ -70,6 +70,20 @@ A entrega deve ser realizada através do formulário disponibilizado pelo profes
 > **Atenção:** Não esqueça de anexar no final deste README ou na documentação do projeto um print comprovando que a regra de **Branch Protection** da `main` foi configurada no GitHub.
 
 --- 
+### 1. Link do Currículo em Produção
+O currículo está publicado e acessível no GitHub Pages através do link abaixo:
+[https://rhuwp.github.io/ds881-curriculo-GRR20221087/](https://rhuwp.github.io/ds881-curriculo-GRR20221087/)
+
+### 2. Instruções para Execução Local via Docker
+Para rodar este projeto na sua máquina localmente sem precisar instalar dependências como Node.js, siga os passos abaixo:
+
+1. Certifique-se de ter o Docker e o Docker Compose instalados na sua máquina.
+2. Clone o repositório e acesse a pasta raiz:
+   ```bash
+   git clone git@github.com:rhuwp/ds881-curriculo-GRR20221087.git
+   cd ds881-curriculo-GRR20221087
+
+---
 ### Evidência de Branch Protection
 Abaixo está o comprovante de que a branch `main` foi configurada com as regras de proteção exigidas:
 
